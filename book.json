@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Dystopian",
+    "pages": 328
+  },
+  {
+    "id": 2,
+    "title": "Küçük Prens",
+    "author": "Antoine de Saint-Exupéry",
+    "year": 1943,
+    "genre": "Children's literature",
+    "pages": 96
+  },
+  {
+    "id": 3,
+    "title": "19844544",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Dystopian",
+    "pages": 329
+  }
+]
